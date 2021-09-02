@@ -253,8 +253,10 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── README.md                             <- The top-level README for reviewers of this project
 ├── Obtain_Process_Explore.ipynb          <- Narrative documentation of data obtainment and processing in Jupyter notebook
-├── Model_Interpret.ipynb                 <- Narrative documentation of iterative modeling and interpretation in Jupyter notebook
-├── King_County_Housing_Presentation.pdf  <- PDF version of project presentation                          
+├── Obtainment_notebook.pdf               <- pdf version of obtainment_process_explore notebook
+├── Model_Interpret.ipynb                 <- Narrative documentation of iterative modeling and interpretation in Jupyter noteboo  
+├── Modeling_notebook.pdf                 <- PDF version of model_intepret notebook
+├── King_County_Housing_Presentation.pdf  <- PDF version of project presentation
 ├── data                                  <- externally sourced and internally through code
 └── images                                <- externally sourced and internally through code
 ```
