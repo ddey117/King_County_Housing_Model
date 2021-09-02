@@ -251,9 +251,10 @@ For any additional questions, please contact **Dylan Dey, ddey2985@gmail.com
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                             <- The top-level README for reviewers of this project
+├── Obtain_Process_Explore.ipynb          <- Narrative documentation of data obtainment and processing in Jupyter notebook
+├── Model_Interpret.ipynb                 <- Narrative documentation of iterative modeling and interpretation in Jupyter notebook
+├── King_County_Housing_Presentation.pdf  <- PDF version of project presentation                          
+├── data                                  <- externally sourced and internally through code
+└── images                                <- externally sourced and internally through code
 ```
